@@ -1,5 +1,6 @@
 name: keyword-releser
-
+permissions:
+      packages: read
 on: [push]
 
 jobs:
